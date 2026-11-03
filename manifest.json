@@ -1,7 +1,6 @@
 {
   "name": "FakeBadge",
-  "description": "يغير رقم الاشعارات (شكل فقط، مو حقيقي)",
+  "description": "Fake notification badge text",
   "authors": [{ "name": "me" }],
-  "main": "index.js",
-  "vendetta": { "icon": "ic_notification_settings" }
+  "main": "index.js"
 }
