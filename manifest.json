@@ -3,6 +3,6 @@
   "description": "Fake notification badge text",
   "authors": [{ "name": "me" }],
   "main": "index.js",
-  "hash": "3",
+  "hash": "4",
   "vendetta": { "icon": "ic_notification_settings" }
 }
